@@ -8,4 +8,5 @@ Susac syndrome is a rare microangiopathy causing small infarcts in the brain, co
 Pr Karim SACRE, Dr Christophe DESTERKE, Dr Ama GASSAMA
 
 ## Method
-suscactriade is a R-package software which allow to perform intersection with an input gene list and the Susac syndrome litterature by taking in account the symptomatic triad of the disease. 
+"susactriade" is a R-package software which allow to perform intersection with an input gene list and the Susac syndrome litterature by taking in account the symptomatic triad of the disease. With different MESH term queries around these sumptomatic triad, susactrade software target 3.341.156 articles in NCBI database when he was created on May 10th, 2018. 
+
