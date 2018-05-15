@@ -14,7 +14,7 @@ Pr Karim SACRE, Dr Christophe DESTERKE, Dr Ama GASSAMA
 # Details of the queries as parameters of "susactriade" software (May 10th, 2018)
 
 
-![alt text] (https://github.com/susactriade/susactriade/blob/master/mesh.jpg)
+![alt text](https://github.com/susactriade/susactriade/blob/master/mesh.jpg)
 
 
 ## 1/SNC 
